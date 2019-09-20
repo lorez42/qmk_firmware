@@ -1,1 +1,2 @@
-# The default keymap for Redox
+# lorez42 copy of the default Redox keymap
+
